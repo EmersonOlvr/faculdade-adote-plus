@@ -115,7 +115,7 @@ main {
 }
 .capa{
     width: 80%;
-    height: 250px;
+    /*height: 250px;*/
     }
 .capa:hover {
     opacity: 1;
