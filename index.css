@@ -209,3 +209,6 @@ footer {
 footer p {
     margin-bottom: 0;
 }
+table th {
+    white-space: nowrap;
+}
